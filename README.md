@@ -2,6 +2,9 @@
 
 Diferente do JavaScript que roda no navegador do seu cliente, o PHP roda no **servidor**. Ele processa as informações e entrega apenas o HTML pronto para o navegador.
 
+Trello: trello.com/b/91qaRJYB/blog-laravel-hub
+Figma: https://www.figma.com/design/xjcMp1s5urL44I1Qndb44l/Blog-Laravel?node-id=0-1&t=ybSEMko3L990ONBS-1
+
 
 
 ### Preparando o terreno
